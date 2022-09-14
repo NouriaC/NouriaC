@@ -1,3 +1,8 @@
+
+<img width="1280" alt="portfolio" src="https://user-images.githubusercontent.com/61932464/190208039-31280955-60b2-4613-a5b2-9ce9293836da.png">
+
+
+
 ### Hi there 👋
 
 <!--
